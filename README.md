@@ -1,4 +1,4 @@
-[![Header](https://github.com/Dmytro-Tsvetkov/Dmytro-Tsvetkov/blob/main/assets/pixel_rain.gif)]
+[![Header](https://github.com/Dmytro-Tsvetkov/Dmytro-Tsvetkov/blob/main/assets/pixel_rain2.gif)]
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
