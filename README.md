@@ -2,7 +2,7 @@
 
 ###Languages and Tools
 
-![JAVA](/static/v1?message=JAVA&color=#FF4500?style=for-the-badge&logo=java)
+![JAVA](/badge/java-java-#FF4500)
 
 Follow Me
 
